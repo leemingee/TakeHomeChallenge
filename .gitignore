@@ -3,3 +3,5 @@ Reference/*
 *.pdf
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
+*/Reference/*
+*.csv
